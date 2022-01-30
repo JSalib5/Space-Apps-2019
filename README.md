@@ -6,7 +6,7 @@ The NEOSSat is a dual-mission microsatellite designed to detect potentially haza
 
 ## Who are we and what is AstroTech?
 
-We are the finalists from Toronto of NASA and the CSA's 2019 Space Apps Challenge. Our team is composed of Mustafa Khan, Aditya Mehrotra, Ankit Batra, Victor Qian, John Salib and Ahmed Mosehli.
+We are the finalists from Toronto of NASA and the CSA's 2019 Space Apps Challenge. Our team is composed of John Salib, Mustafa Khan, Aditya Mehrotra, Ankit Batra, Victor Qian, and Ahmed Mosehli.
 
 Our goal was to detect and visualize asteroids moving in space using data from the NEOSSat. We call our solution: AstroTech.
 
@@ -18,14 +18,6 @@ Additionally, NEOSSAT's raw grayscale images are used to generate a series of fa
 
 ## Where can you find our work?
 
-You can find a writeup of the competition and our work here: https://medium.com/@mustafa.khan670093/astrotech-developing-asteroid-detection-technology-for-the-csa-f24c1ba23eef
-
 The final video submission for national judging: https://www.youtube.com/watch?v=dkfggBqCmcA&feature=youtu.be.
 
 You can visit the website for AstroTech here: https://astrotech.netlify.com.
-
-You can find our code and links to other details about our submission here: https://github.com/MustafaKhan670093/Space-Apps-2019-Submission.
-
-The google slides used in our video can be found here: https://docs.google.com/presentation/d/1NdyAyRt2zKM-qh46nu629F2MSpAi3nr3nW546mrVuOc/edit?usp=sharing.
-
-This is a link to the Google Collab shown in the video: https://colab.research.google.com/drive/1lhj0k4c-Yar8UCknNvOu2pngMd6fkbTg.
