@@ -1,4 +1,4 @@
-# Space-Apps-2019-Finalist-Submission: AstroTech
+# Space Apps 2019 Finalists Submission: AstroTech
 
 ## What is the NEOSSat Challenge?
 
